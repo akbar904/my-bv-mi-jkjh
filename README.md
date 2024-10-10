@@ -1,5 +1,9 @@
 # my-bv-mi-jkjh
 ## Progress Log
+🔄 [2024-10-11 06:41:23] Failed to deploy to Firebase
+
+⏱️ Previous step took 41.85 seconds ⏱️
+
 🔄 [2024-10-11 06:40:41] Deploying to Firebase
 
 ⏱️ Previous step took 1.65 seconds ⏱️
